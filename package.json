@@ -1,0 +1,18 @@
+{
+  "name": "nuxtjs-hello-world",
+  "version": "1.0.0",
+  "description": "A simple Hello World Nuxt.js project",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^3.0.0",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest"
+  }
+}
