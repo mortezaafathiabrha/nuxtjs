@@ -5,7 +5,7 @@ A simple Hello World application built with Nuxt.js 3.
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v14 or higher)
+- Node.js 22.12 or newer (22, 24, or 26)
 - npm or yarn
 
 ### Installation

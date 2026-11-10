@@ -2,10 +2,13 @@
   "name": "nuxtjs-hello-world",
   "version": "1.0.0",
   "description": "A simple Hello World Nuxt.js project",
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "start": "node .output/server/index.mjs",
     "generate": "nuxt generate"
   },
   "dependencies": {
